@@ -26,7 +26,7 @@
 
 ***Final Project***
 
-###### Content
+*Content*
 <https://github.com/6210612641/anim63b/blob/main/content.md>
 
 Part 1 : Cloud & forest 
