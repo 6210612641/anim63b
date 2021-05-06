@@ -2,6 +2,8 @@
 
 ###### Thunyaporn Tangcharoenchitkul 6210612641
 
+## Homework
+
 1. clip1 : Create github
 
 2. clip2 : Basic blender
@@ -24,16 +26,11 @@
 
 -------------------------------------------------
 
-***Final Project***
+## Final Project
 
-*Content*
+**Content Processing**
 <https://github.com/6210612641/anim63b/blob/main/content.md>
 
-Part 1 : Cloud & forest 
-<https://youtu.be/jSSR3Bge_m0>
+***Complete Final project***
+<https://youtu.be/A29Swt5-hO4>
 
-Part 2 : Frog 
-<https://youtu.be/mdFdA47egqs>
-
-Part 3 : Detail
-<https://youtu.be/voBk2zMdfPw>
